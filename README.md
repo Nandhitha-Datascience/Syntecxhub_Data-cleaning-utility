@@ -21,6 +21,13 @@ This project focuses on cleaning and analyzing a real-world FIFA dataset contain
 - Matplotlib
 - Jupyter Notebook
 
+## Cleaning Log:
+- Handled missing values using mean/median
+- Fixed encoding issues in Value column
+- Converted currency formats (€M, €K) to numeric
+- Standardized weight units
+- Removed duplicate rows
+
 ## Key Insight
 Top football clubs tend to have players from diverse nationalities, indicating global recruitment strategies.
 
